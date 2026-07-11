@@ -12,7 +12,7 @@
 
 <a href="https://linkedin.com/in/chinmaysingh24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:chinmaysingh285@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://chinmay-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://chinmaysingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -142,7 +142,7 @@ areas_of_interest: [Full Stack Development, Machine Learning, Deep Learning, Com
 
 <a href="https://linkedin.com/in/chinmaysingh24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaysingh24" height="35" width="45" /></a>
 <a href="mailto:chinmaysingh285@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="35" width="45" /></a>
-<a href="https://chinmay-dev.vercel.app/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="35" width="35" /></a>
+<a href="https://chinmaysingh.vercel.app/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="35" width="35" /></a>
 
 </div>
 
