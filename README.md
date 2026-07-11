@@ -105,8 +105,8 @@ areas_of_interest: [Full Stack Development, Machine Learning, Deep Learning, Com
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chinmaysinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaysinghh&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chinmaysinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaysinghh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/>
 
@@ -141,7 +141,7 @@ areas_of_interest: [Full Stack Development, Machine Learning, Deep Learning, Com
 <div align="center">
 
 <a href="https://linkedin.com/in/chinmaysingh24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaysingh24" height="35" width="45" /></a>
-<a href="mailto:chinmaysingh285@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="35" width="45" /></a>
+<a href="mailto:chinmaysingh285@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="email" height="35" width="35" /></a>
 <a href="https://chinmaysingh.vercel.app/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="35" width="35" /></a>
 
 </div>
