@@ -141,8 +141,8 @@ areas_of_interest: [Full Stack Development, Machine Learning, Deep Learning, Com
 <div align="center">
 
 <a href="https://linkedin.com/in/chinmaysingh24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaysingh24" height="35" width="45" /></a>
-<a href="mailto:chinmaysingh285@gmail.com" target="blank"><img src="https://img.icons8.com/ios-filled/50/9CA3AF/gmail.png" alt="email" height="32" width="32" /></a>
-<a href="https://chinmaysingh.vercel.app/" target="blank"><img src="https://img.icons8.com/ios-filled/50/9CA3AF/internet.png" alt="portfolio" height="32" width="32" /></a>
+<a href="mailto:chinmaysingh285@gmail.com" target="blank"><img src="https://cdn.simpleicons.org/gmail/9CA3AF" alt="email" height="32" width="32" /></a>
+<a href="https://chinmaysingh.vercel.app/" target="blank"><img src="https://cdn.simpleicons.org/vercel/9CA3AF" alt="portfolio" height="32" width="32" /></a>
 
 </div>
 
